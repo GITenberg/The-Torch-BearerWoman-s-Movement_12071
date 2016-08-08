@@ -1,0 +1,30 @@
+_repo: The-Torch-BearerWoman-s-Movement_12071
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ryan, Agnes E.
+    alias: Ryan, Agnes Edna
+    birthdate: 1878
+    deathdate: 1954
+    gutenberg_agent_id: '4209'
+    url: http://www.gutenberg.org/2009/agents/4209
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'Women -- Suffrage -- United States'
+- !lcsh 'Woman''s journal (Boston, Mass. : 1870)'
+- GITenberg
+title: 'The Torch Bearer
+
+  A Look Forward and Back at the Woman''s Journal, the Organ of the
+
+  Woman''s Movement'
+url: http://www.gutenberg.org/ebooks/12071
